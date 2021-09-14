@@ -1,29 +1,3 @@
-# Project Omega
-Project space for NUS SGUS Fintech Batch 3 Group 1 QuantConnect team.
-
-This project is part of [FinTech programme](https://stmi.nus.edu.sg/nus-fintechsg-program/) provided by [NUS FinTech Lab](https://fintechlab.nus.edu.sg/) under [Prof. Keith Barrett Carter](https://stmi.nus.edu.sg/about-us/instructors/associate-professor-keith-barrett-carter/) and [NUS STMI School of Computing](https://stmi.nus.edu.sg/) sponsored by [NUS SCALE](https://scale.nus.edu.sg/nus-sgunited-skills/overview/professional-services)/[SGUnited](https://www.sgunited.gov.sg/)
-
-
-This project is greatly influenced by the algo-trading course given by [Shahank Tripathi](https://stmi.nus.edu.sg/about-us/instructors/mr-shashank-shekhar-tripathi/)
-
-## Project Supervisors
-1. [Jon Scheele](https://ace.nus.edu.sg/about-us/executive-education-fellow/jon-scheele/)
-1. Dooby
-1. Don Yam
-
-## Members
-1. [Antony Christopher Cherian Paul](https://www.linkedin.com/in/antony-cherian-cfa-fcca-445971/)
-1. Lim Hong Wen (Team Lead)
-1. Ngan Kwok Leong
-1. [Tkachenko Alexey](https://www.linkedin.com/in/tkachenkoalexey/) (Tech Lead)
-1. Qing Hong "Peter" Sum
-
-## Collaboration and reporting
-* [Time tracking](https://docs.google.com/spreadsheets/d/1goY3e8Pnb7GCFPjv1ocY3dTM-CobUiLo0siKtb2_tVs/edit?usp=sharing)
-* [Meeting Minutes](https://docs.google.com/document/d/1ZUnK5dsIOngHRSNgRD8AuZrsVoigCyxFhxJIKpwJvKw/edit?usp=sharing)
-* [Project report](https://github.com/iskaspb/project-omega/blob/master/reports/Report_Project_Omega.docx)
-* [Canban project board](https://github.com/iskaspb/project-omega/projects/1)
-
 ### Setting up local env
 1. Get the git repo by executing the command:
 ```
